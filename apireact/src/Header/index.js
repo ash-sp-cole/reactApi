@@ -15,7 +15,7 @@ return (
   <Navbar.Collapse id="basic-navbar-nav">
     <Nav className="mr-auto">
       <Nav.Link as={Link} to="/">Home</Nav.Link>
-      <Nav.Link as={Link} to="Home">Search</Nav.Link>
+      <Nav.Link as={Link} to="/Display">Search</Nav.Link>
 
     </Nav>
    
